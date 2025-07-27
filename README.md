@@ -98,7 +98,7 @@ flask --app run.py shell
 ```
 
 
-## 🧪 Tests (à venir)
+## Tests (à venir)
 
 Des tests unitaires peuvent être ajoutés avec **pytest** ou **unittest**.
 
@@ -110,13 +110,13 @@ Des tests unitaires peuvent être ajoutés avec **pytest** ou **unittest**.
 * Rends la config SQLAlchemy adaptable avec `os.getenv("DATABASE_URL")`
 
 
-## ✅ À propos
+## À propos
 
 * Auteur : \Mfoucault002
 * Projet de démonstration pour reconversion pro dans l'informatique / portfolio
 
 
-## 📄 Licence
+## Licence
 
 Ce projet est libre d’utilisation à des fins pédagogiques.
 
